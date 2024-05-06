@@ -1,11 +1,9 @@
 ---
-title: "kdxhub"
+title: "kdxiaoyi"
 ---
 # <center>公告</center>
-发现个神奇定律：玩多了DoMCer就只会玩Hypixel了、玩多了Hypixel就只会玩DoMCer了<br>
-~~——指昨天DoMCer乱杀，今天被连飞……昨天Hypixel被rush直到alt+F4，今天每局都有送床和人头的……~~
-
-<center><h1>坚决抵制日本排放核污水</h1></center>
+本博客主站因[Github账号问题](./blogs/2024/20-lost)迁移至新仓库。<br>
+原有短链接仍然可用：[kdx233.github.io](//kdx233.github.io/)
 
 ---
 [检索此站点](/search.html)<br>
@@ -46,7 +44,7 @@ title: "kdxhub"
 *因为担心有人上不了P站，这里用的镜像站*
 
 ---
-<center><strong>kdxhub</strong></center>
+<center><strong>kdxiaoyi</strong></center>
 <center>坑爹的夏天难道不很令人O-Yi吗</center>
 
 ---
