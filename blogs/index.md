@@ -1,10 +1,14 @@
-# kdXiaoyi's Blog
+# kdxhub's Blog
 你可以：[搜索](/search.html)博客(Ctrl+F 或对于MacOS Command+F) / 查看博客<br>
-_TIP: 键入`kdxiaoyi.github.io/blogs/[年份]/[BLOG序号]/`快速打开博客_<br>
-**此BLOG INDEX及BLOGS适用于[kdXiaoyi.github.io的版权声明](/LICENSE_)**<br>
+_TIP: 键入`kdxhub.github.io/blogs/[年份]/[BLOG序号]/`快速打开博客_<br>
+**此BLOG INDEX及BLOGS适用于[kdxhub.github.io的版权声明](/LICENSE_)**<br>
 
 创建：文档被创建的日期<br>
 最后更新：文档**内容**最后被更新时间
+
+## 2024
+[21# 天翼两个光猫的破解](./2024/21)<br>
+[20# 1年的失踪……](./2024/20-lost)<br>
 
 ## 2023
 [19# 攻破步步高X2 (P22H190)家教机平板](./2023/19-bbg-x2-p22h190)<br>

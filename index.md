@@ -1,5 +1,5 @@
 ---
-title: "kdXiaoyi"
+title: "kdxhub"
 ---
 # <center>公告</center>
 发现个神奇定律：玩多了DoMCer就只会玩Hypixel了、玩多了Hypixel就只会玩DoMCer了<br>
@@ -10,7 +10,7 @@ title: "kdXiaoyi"
 ---
 [检索此站点](/search.html)<br>
 [个人博客](/blogs/index)<br>
-[Github Discussions](//github.com/kdXiaoyi/kdxiaoyi.github.io/discussions)
+[Github Discussions](//github.com/kdxhub/kdxhub.github.io/discussions)
 
 # <center>好van的</center>
 * [<img width=16px height=16px alt="CSBB" src="https://s1.ax1x.com/2022/08/21/vyApIs.png"></img> Change sys by batch](/change-sys-by-batch)
@@ -23,8 +23,8 @@ title: "kdXiaoyi"
 # <center>社交媒体</center>
 欢迎关注！
 * [Bilibili](//space.bilibili.com/1987247870)
-* [Github](//github.com/kdxiaoyi)
-* [知乎](//www.zhihu.com/people/kdxiaoyi)
+* [Github](//github.com/kdxhub)
+* [知乎](//www.zhihu.com/people/kdxhub)
 * [个人博客](/blogs/index)
 
 # <center>赞助</center>
@@ -37,16 +37,16 @@ title: "kdXiaoyi"
 
 | 关于此Github.io | ISSUES |
 |-|-|
-| [仓库地址](//github.com/kdXiaoyi/kdxiaoyi.github.io)<br>[辅助站点仓库地址](//github.com/kdX233/kdx233.github.io)<br>真要说它两啥关系的话……一个主要放apis和博客，一个放资源 | [提交主页反馈](//github.com/kdXiaoyi/kdxiaoyi.github.io/issues/new/choose) 或 [检索主页反馈](//github.com/kdXiaoyi/kdxiaoyi.github.io/issues?q=is%3Aissue)<br>验收标准：Windows [Edge](https://www.microsoft.com/edge)|
-| 此仓库所用的部分自建API/CSS | [API帮助文档](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/_index.md)<br>[CSS列表](https://github.com/kdX233/kdx233.github.io/blob/master/res/css/_index.md) |
-|版权声明|[LICENSE](//kdxiaoyi.github.io/LICENSE_)|
+| [仓库地址](//github.com/kdxhub/kdxhub.github.io)<br>[辅助站点仓库地址](//github.com/kdX233/kdx233.github.io)<br>真要说它两啥关系的话……一个主要放apis和博客，一个放资源 | [提交主页反馈](//github.com/kdxhub/kdxhub.github.io/issues/new/choose) 或 [检索主页反馈](//github.com/kdxhub/kdxhub.github.io/issues?q=is%3Aissue)<br>验收标准：Windows [Edge](https://www.microsoft.com/edge)|
+| 此仓库所用的部分自建API/CSS | [API帮助文档](https://github.com/kdxhub/kdxhub.github.io/blob/main/api/_index.md)<br>[CSS列表](https://github.com/kdX233/kdx233.github.io/blob/master/res/css/_index.md) |
+|版权声明|[LICENSE](//kdxhub.github.io/LICENSE_)|
 
 背景图来源：[`P站ID 101438976`](https://pixivel.moe/illust/101438976)<br>
 作者指路：[`@Rafa`](https://pixivel.moe/illustrator/3970196)<br>
 *因为担心有人上不了P站，这里用的镜像站*
 
 ---
-<center><strong>kdXiaoyi</strong></center>
+<center><strong>kdxhub</strong></center>
 <center>坑爹的夏天难道不很令人O-Yi吗</center>
 
 ---

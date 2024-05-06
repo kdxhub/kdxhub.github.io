@@ -17,7 +17,7 @@
 ```
 快速生成狗屁不通的文章
 summon
-kdxiaoyi.Github.io/BullshitGenerator/spawner.html?主题=%s
+kdxhub.Github.io/BullshitGenerator/spawner.html?主题=%s
 ```
 
 之后地址栏输入`summon`+Tab就可以快速填入主题并生成文章啦

@@ -76,7 +76,7 @@
 *——500年前为稻妻而战的士兵（残影），雷电将军传说任务「天下人之章」第二幕*<br>
 
 **“常道恢弘，鸣神永恒！”**<br>
-*——稻妻士兵的口号，雷电将军传说任务「天下人之章」第二幕<sup>[[注]](https://kdxiaoyi.github.io/api/alert.htm?text=可考据的提瓦特历史上最早出现时间)</sup>*<br>
+*——稻妻士兵的口号，雷电将军传说任务「天下人之章」第二幕<sup>[[注]](https://kdxhub.github.io/api/alert.htm?text=可考据的提瓦特历史上最早出现时间)</sup>*<br>
 
 **“有乐斋，我真的每天都过的很快乐哦。”**<br>
 *——八重神子，个人传说任务「仙狐之章」第一幕*<br>
@@ -144,7 +144,7 @@
 *——塔杰 · 拉德卡尼，赛诺传说任务「金狼之章」第一幕*<br>
 
 **“让世界，彻底遗忘我”**<br>
-*——[[数据删除]](https://kdxiaoyi.github.io/api/alert.htm?text=大慈树王)，须弥主线「虚空鼓动，劫火高扬」*<br>
+*——[[数据删除]](https://kdxhub.github.io/api/alert.htm?text=大慈树王)，须弥主线「虚空鼓动，劫火高扬」*<br>
 
 **“花车颠啊颠，纳西妲睁开眼，神明啊，我们终于找到你了。”**<br>
 *——昔日的「贤者」们，纳西妲角色PV*<br>
@@ -154,7 +154,7 @@
 
 **“须弥的子民啊，再见了。”**<br>
 “愿你们今晚得享美梦。”<br>
-*——[[数据删除]](https://kdxiaoyi.github.io//api/alert.htm?text=大慈树王)最后的话，须弥主线「虚空鼓动，劫火高扬」*<br>
+*——[[数据删除]](https://kdxhub.github.io//api/alert.htm?text=大慈树王)最后的话，须弥主线「虚空鼓动，劫火高扬」*<br>
 
 **“我们刚刚拯救了世界对吗？”**<br>
 “可是为什么…我好像在哭呢？”<br>
@@ -171,5 +171,5 @@
 
 | 项目 | 子项目 |
 |-|-|
-|收集|[kdXiaoyi](https://kdx233.github.io)|
+|收集|[kdxhub](https://kdx233.github.io)|
 |信息来源|[@原神 ↗](https://space.bilibili.com/401742377)<br>[原神WIKI ↗](https://wiki.biligame.com/ys/)<br>[米游社观测枢 ↗](https://bbs.mihoyo.com/ys/strategy/?bbs_presentation_style=no_header)|

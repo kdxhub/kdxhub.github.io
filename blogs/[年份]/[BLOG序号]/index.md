@@ -8,7 +8,7 @@
 
 ## 第三方博客
 ### 2023-03-04
-[如何看待深圳南头中学强制要求学生购买所谓的听说材料？ - kdXiaoyi的回答 - 知乎](https://www.zhihu.com/question/278432592/answer/2920800289)<br>
+[如何看待深圳南头中学强制要求学生购买所谓的听说材料？ - kdxhub的回答 - 知乎](https://www.zhihu.com/question/278432592/answer/2920800289)<br>
 
 ### 2023-01-12
 [录屏软件Bandicam 破 系列帖 (出处: 卡饭)](https://bbs.kafan.cn/thread-2250106-1-1.html)<br>
