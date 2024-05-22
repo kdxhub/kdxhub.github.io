@@ -11,6 +11,7 @@ title: "kdxiaoyi"
 [Github Discussions](//github.com/kdxhub/kdxhub.github.io/discussions)
 
 # <center>好van的</center>
+* <big>[安卓自动化任务分享](/autotasklist)</big>
 * [<img width=16px height=16px alt="CSBB" src="https://s1.ax1x.com/2022/08/21/vyApIs.png"></img> Change sys by batch](/change-sys-by-batch)
 * [各种资源收集与分享](/resource-share)
 * [废话生成器 魔改增强](/Project/BullshitGenerator/spawner.html)
@@ -22,7 +23,7 @@ title: "kdxiaoyi"
 欢迎关注！
 * [Bilibili](//space.bilibili.com/1987247870)
 * [Github](//github.com/kdxhub)
-* [知乎](//www.zhihu.com/people/kdxhub)
+* [知乎](//www.zhihu.com/people/kdxiaoyi)
 * [个人博客](/blogs/index)
 
 # <center>赞助</center>
