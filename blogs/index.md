@@ -1,5 +1,5 @@
 # kdxiaoyi's Blog
-<small><a href="//">首页</a> | <b >Blogs</b> | <a href="/Project">项目合集</a><br><a href="../">←返回</a> </small>
+<small><a href="/">首页</a> | <b >Blogs</b> | <a href="/Project">项目合集</a><br><a href="../">←返回</a> </small>
 
 你可以：[搜索](/search.html)博客(Ctrl+F 或对于MacOS Command+F) / 查看博客<br>
 _TIP: 键入`kdxhub.github.io/blogs/[年份]/[BLOG序号]/`快速打开博客_<br>

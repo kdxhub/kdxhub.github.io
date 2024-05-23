@@ -1,5 +1,5 @@
 # 好van的
-<small><a href="//">首页</a> | <a href="/blogs">Blogs</a> | <b>项目合集</b><br><a href="../">←返回</a> </small>
+<small><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <b>项目合集</b><br><a href="../">←返回</a> </small>
 
 
 这里有各种好van的个人项目哦。<br>
