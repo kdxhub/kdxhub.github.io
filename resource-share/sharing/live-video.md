@@ -1,5 +1,6 @@
 # 各直播源 文件
-<small><a href="../">←返回</a> | 创建：2023-01-07 | 最后更新：2023-01-07</small><br>
+<small><a href="//">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a><br><a href="../">←返回</a> |
+ 创建：2023-01-07 | 最后更新：2023-01-07</small><br>
 
 ## What's this
 顾名思义，本地看直播的文件。

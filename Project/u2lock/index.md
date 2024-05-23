@@ -1,5 +1,6 @@
 # u2lock
-<small><a href="../">←返回</a> | 创建：2023-03-05 | 最后更新：2023-03-05</small><br>
+<small><a href="//">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a><br><a href="../">←返回</a> |
+ 创建：2023-03-05 | 最后更新：2023-03-05</small><br>
 
 # [宣传片](https://www.bilibili.com/video/BV1so4y1q7Ft/)
 

@@ -1,5 +1,6 @@
 # 第三方Blogs/Homepage统计
-[返回](../../)
+<small><a href="//">首页</a> | <b >Blogs</b> | <a href="/Project">项目合集</a><br><a href="../../">←返回</a> </small>
+
 
 这里是用于统计一些非本站Blogs和个人主页的页面。<br>
 所以有些链接失效了也不能怪我。<br>

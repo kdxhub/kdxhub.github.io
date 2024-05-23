@@ -1,6 +1,8 @@
 ---
 title: "kdxiaoyi"
 ---
+<small><b>首页</b> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a></small>
+
 # <center>公告</center>
 本博客主站因[Github账号问题](./blogs/2024/20-lost)迁移至新仓库。<br>
 原有短链接仍然可用：[kdx233.github.io](//kdx233.github.io/)
@@ -40,9 +42,7 @@ title: "kdxiaoyi"
 | 此仓库所用的部分自建API/CSS | [API帮助文档](https://github.com/kdxhub/kdxhub.github.io/blob/main/api/_index.md)<br>[CSS列表](https://github.com/kdX233/kdx233.github.io/blob/master/res/css/_index.md) |
 |版权声明|[LICENSE](//kdxhub.github.io/LICENSE_)|
 
-背景图来源：[`P站ID 101438976`](https://pixivel.moe/illust/101438976)<br>
-作者指路：[`@Rafa`](https://pixivel.moe/illustrator/3970196)<br>
-*因为担心有人上不了P站，这里用的镜像站*
+背景图来源可以在[这里↗](https://s21.ax1x.com/2024/05/24/pkQwEfH.jpg)找到
 
 ---
 <center><strong>kdxiaoyi</strong></center>
