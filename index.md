@@ -1,7 +1,7 @@
 ---
 title: "kdxiaoyi"
 ---
-<small><b>首页</b> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a></small>
+<small><b>首页</b> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a></small>
 
 # <center>公告</center>
 本博客主站因[Github账号问题](./blogs/2024/20-lost)迁移至新仓库。<br>
