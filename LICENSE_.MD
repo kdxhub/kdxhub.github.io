@@ -1,4 +1,9 @@
-# 版权声明
+---
+title: "版权声明"
+---
+
+<small><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="../">←返回</a> | 
+</small><br>
 *说实话，一般署了我的名并且不用于商业性行为我一般不会追究责任*
 
 如果没有任何 特殊/附加/转载 声明，在此站点上发布的一切都应遵守下列协议。《版权法》（中国）另有规定的除外。
