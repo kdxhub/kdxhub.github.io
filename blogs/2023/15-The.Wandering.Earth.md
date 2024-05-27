@@ -1,10 +1,12 @@
 ---
 title: "看完流浪地球2，我的看法……"
 ---
+
 <small><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="../../">←返回</a> |
  创建：2023-02-18 | 最后更新：2023-02-18 | 在<a href="https://github.com/kdxhub/kdxhub.github.io/blob/main/blogs/2023/15-The.Wandering.Earth.md">Github</a>或<a href="https://www.bilibili.com/read/cv21899082">Bilibili</a>上查看</small>
 
-# 一些观点
+---
+title: "一些观点
 <center><big>轻微剧透警告</big></center><br>
 <img src="https://s1.ax1x.com/2023/02/18/pSqTu7T.jpg"></img><br>
 

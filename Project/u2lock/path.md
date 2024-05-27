@@ -1,5 +1,8 @@
-# u2lock - Path
-<small><a href="./index">←返回</a></small><br>
+---
+title: "u2lock - Path"
+---
+
+<small><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="./index">←返回</a> </small><br>
 
 # KDX233.PAN
 **中国大陆地区因不可抗力因素可能下载较慢**

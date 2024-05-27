@@ -1,4 +1,9 @@
-# 赞助
+---
+title: "赞助"
+---
+
+<small><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="./">←返回</a></small><br>
+
 ## 点击广告
 您的每次点击广告都能为我带来收益<br>
 

@@ -1,5 +1,8 @@
-# 资源分享
-[返回](/index)
+---
+title: "资源分享"
+---
+
+<small><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="../">←返回</a></small><br>
 
 这里有各种好van的资源哦。<br>
 [加密相关策略](/resource-share/rule)

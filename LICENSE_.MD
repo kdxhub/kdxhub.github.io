@@ -1,8 +1,7 @@
 ---
 title: "版权声明"
 ---
-
-<small><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="../">←返回</a> | 
+<small><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="./">←返回</a> | 
 </small><br>
 *说实话，一般署了我的名并且不用于商业性行为我一般不会追究责任*
 

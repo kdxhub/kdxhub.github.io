@@ -1,4 +1,9 @@
-# 添加到浏览器
+---
+title: "添加到浏览器"
+---
+
+<small><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="./spawner.html">←返回</a></small><br>
+
 ## 不会真的有人以为这个网站只能夹吃灰吧
 以Windows Edge为例，
 ### 添加为搜索引擎

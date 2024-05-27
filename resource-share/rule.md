@@ -1,5 +1,8 @@
-# 关于加密策略
-[返回](./index)
+---
+title: "关于加密策略"
+---
+
+<small><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="../">←返回</a></small><br>
 
 由于部分网盘的存储策略限制，所以有些资源会按下列规则处理：
 

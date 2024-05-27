@@ -1,5 +1,8 @@
-# 第三方Blogs/Homepage统计
-<small><a href="/">首页</a> | <b >Blogs</b> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="../../">←返回</a> </small>
+---
+title: "第三方Blogs/Homepage统计"
+---
+
+<small><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="../../">←返回</a> </small>
 
 
 这里是用于统计一些非本站Blogs和个人主页的页面。<br>
