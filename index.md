@@ -9,12 +9,11 @@ title: "kdxiaoyi"
 
 ---
 [检索此站点](/search.html)<br>
-[个人博客](/blogs/index)<br>
-[Github Discussions](//github.com/kdxhub/kdxhub.github.io/discussions)
+<big>[个人博客](/blogs/index)</big>
 
 # <center>好van的</center>
 * [安卓自动化任务分享](/autotasklist)
-* [RNP 仿星铁的随机点名助手](/random-name-picker)
+* [RNP 仿星铁的随机点名助手](https://github.com/kdxhub/random_name_picker)
 * [PIXIV.RE UI P站插图批量获取](/blogs/2024/24)
 * [各种资源收集与分享](/resource-share)
 
