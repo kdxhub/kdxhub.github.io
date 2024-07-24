@@ -5,7 +5,7 @@ title: "kdxiaoyi's Blog"
 
 你可以：[搜索](/search.html)博客(Ctrl+F 或对于MacOS Command+F) / 查看博客<br>
 _TIP: 键入`kdxhub.github.io/blogs/[年份]/[BLOG序号]/`快速打开博客_<br>
-**此BLOG INDEX及BLOGS适用于[kdxhub.github.io的版权声明](/LICENSE_)**<br>
+**此BLOG INDEX及BLOGS适用于[kdxhub.github.io的版权声明](//kdx233.github.io/licen)**<br>
 
 创建：文档被创建的日期<br>
 最后更新：文档**内容**最后被更新时间
