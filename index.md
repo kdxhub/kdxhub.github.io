@@ -3,9 +3,10 @@ title: "kdxiaoyi"
 ---
 <small><b>首页</b> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a></small>
 
-# <center>公告</center>
-本博客主站因[Github账号问题](./blogs/2024/20-lost)迁移至新仓库。<br>
-原有短链接仍然可用：[rs.kdxiaoyi.top](//rs.kdxiaoyi.top/)
+# <center>公告</center><br>
+<center><big>我们搬家了</big><br>即日起我们搬迁至新域名kdxiaoyi.top</center><br>
+kdxiaoyi.top使用Cloudflare代理，大幅提高了访问速率，同时也降低了访问失败可能性。<br>
+kdx233.github.io则搬迁到[rs.kdxiaoyi.top](//rs.kdxiaoyi.top)下。<br>
 
 ---
 [检索此站点](/search.html)<br>
