@@ -33,7 +33,7 @@ title: "反怼一个反原的记录"
 
 说的就跟你了解原神数值一样    *`←偷换概念，开始了`*
 
-* [某不相干网站](https://kdxhub.github.io/api/alert.htm?text=不可能公开是啥网站的)！    *←被套了，惭愧*
+* [某不相干网站](https://kdxiaoyi.top/api/alert.htm?text=不可能公开是啥网站的)！    *←被套了，惭愧*
 
 …balabala…    *`←主要是偷换概念后大作文章`*
 

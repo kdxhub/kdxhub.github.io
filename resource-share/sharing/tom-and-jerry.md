@@ -13,7 +13,7 @@ ZIP -SHA256-> 9c52112451b92e1404c313a2c17891e5b86ed79fa8bd7a3d1d2349384b773ed3
 
 ## 常见问题
 ### 1.为啥链接挂掉了？为啥没有？为啥里面是空的？
-[idk，but交个issues吧](//github.com/kdxhub/kdxhub.github.io/issues/new/choose)
+[idk，but交个issues吧](//github.com/kdxhub/kdxiaoyi.top/issues/new/choose)
 ### 2.
 * 压缩包和分开的161集为原版161集
 * .torrent种子是161全集的种子（能下，100KB/s那种）

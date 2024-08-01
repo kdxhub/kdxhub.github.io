@@ -4,8 +4,8 @@ title: "kdxiaoyi's Blog"
 <small><a href="/">首页</a> | <b >Blogs</b> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="../">←返回</a> </small>
 
 你可以：[搜索](/search.html)博客(Ctrl+F 或对于MacOS Command+F) / 查看博客<br>
-_TIP: 键入`kdxhub.github.io/blogs/[年份]/[BLOG序号]/`快速打开博客_<br>
-**此BLOG INDEX及BLOGS适用于[kdxhub.github.io的版权声明](//kdx233.github.io/licen)**<br>
+_TIP: 键入`kdxiaoyi.top/blogs/[年份]/[BLOG序号]/`快速打开博客_<br>
+**此BLOG INDEX及BLOGS适用于[kdxiaoyi.top的版权声明](//rs.kdxiaoyi.top/licen)**<br>
 
 创建：文档被创建的日期<br>
 最后更新：文档**内容**最后被更新时间
@@ -34,7 +34,7 @@ _TIP: 键入`kdxhub.github.io/blogs/[年份]/[BLOG序号]/`快速打开博客_<b
 
 ## 2022
 [9# 大改Github Pages！（换Github Pages背景并加速）](/blogs/2022/9)<br>
-<!-- [大事# 迷你迷你VS我的世界 落下帷幕](https://kdx233.github.io/res/docs/Miniplay_lost/)<br> -->
+<!-- [大事# 迷你迷你VS我的世界 落下帷幕](https://rs.kdxiaoyi.top/res/docs/Miniplay_lost/)<br> -->
 [大事# 中华人民共和国前任主席江泽民不幸去世↗](https://baijiahao.baidu.com/s?id=1751005478603095729)<br>
 [8# Live2D 入侵网课](/blogs/2022/8)<br>
 [7# Windows 上常用的拓展插件](/blogs/2022/7)<br>

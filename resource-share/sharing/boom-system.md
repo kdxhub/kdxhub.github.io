@@ -17,4 +17,4 @@ title: "核爆系统の工具宝库 和 虚拟机相关工具"
 
 * **分享资源链接时请勿直接分享网盘链接，而是分享本页短链接。**
 * 如有变动/疑似失联可方便通知
-* 本页短链接：[`https://kdx233.github.io/res/boom.htm`](https://kdx233.github.io/res/boom.htm)
+* 本页短链接：[`https://rs.kdxiaoyi.top/res/boom.htm`](https://rs.kdxiaoyi.top/res/boom.htm)

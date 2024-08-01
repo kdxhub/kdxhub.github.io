@@ -5,7 +5,7 @@ title: "kdxiaoyi"
 
 # <center>公告</center>
 本博客主站因[Github账号问题](./blogs/2024/20-lost)迁移至新仓库。<br>
-原有短链接仍然可用：[kdx233.github.io](//kdx233.github.io/)
+原有短链接仍然可用：[rs.kdxiaoyi.top](//rs.kdxiaoyi.top/)
 
 ---
 [检索此站点](/search.html)<br>
@@ -38,9 +38,9 @@ title: "kdxiaoyi"
 
 | 关于此Github.io | ISSUES |
 |-|-|
-| [仓库地址](//github.com/kdxhub/kdxhub.github.io)<br>[辅助站点仓库地址](//github.com/kdX233/kdx233.github.io)<br>真要说它两啥关系的话……一个主要放apis和博客，一个放资源 | [提交主页反馈](//github.com/kdxhub/kdxhub.github.io/issues/new/choose) 或 [检索主页反馈](//github.com/kdxhub/kdxhub.github.io/issues?q=is%3Aissue)<br>验收标准：Windows [Edge](https://www.microsoft.com/edge)|
-| 此仓库所用的部分自建API/CSS | [API帮助文档](https://github.com/kdxhub/kdxhub.github.io/blob/main/api/_index.md)<br>[CSS列表](https://github.com/kdX233/kdx233.github.io/blob/master/res/css/_index.md) |
-|版权声明|[LICENSE](//kdxhub.github.io/LICENSE_)|
+| [仓库地址](//github.com/kdxhub/kdxiaoyi.top)<br>[辅助站点仓库地址](//github.com/kdX233/rs.kdxiaoyi.top)<br>真要说它两啥关系的话……一个主要放apis和博客，一个放资源 | [提交主页反馈](//github.com/kdxhub/kdxiaoyi.top/issues/new/choose) 或 [检索主页反馈](//github.com/kdxhub/kdxiaoyi.top/issues?q=is%3Aissue)<br>验收标准：Windows [Edge](https://www.microsoft.com/edge)|
+| 此仓库所用的部分自建API/CSS | [API帮助文档](https://github.com/kdxhub/kdxiaoyi.top/blob/main/api/_index.md)<br>[CSS列表](https://github.com/kdX233/rs.kdxiaoyi.top/blob/master/res/css/_index.md) |
+|版权声明|[LICENSE](//kdxiaoyi.top/LICENSE_)|
 
 背景图来源可以在[这里↗](https://s21.ax1x.com/2024/05/24/pkQwEfH.jpg)找到
 
