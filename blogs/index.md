@@ -5,7 +5,7 @@ title: "kdxiaoyi's Blog"
 
 你可以：[搜索](/search.html)博客(Ctrl+F 或对于MacOS Command+F) / 查看博客<br>
 _TIP: 键入`kdxiaoyi.top/blogs/[年份]/[BLOG序号]/`快速打开博客_<br>
-**此BLOG INDEX及BLOGS适用于[kdxiaoyi.top的版权声明](//rs.kdxiaoyi.top/licen)**<br>
+**此BLOG INDEX及BLOGS适用于[kdxiaoyi.top的版权声明](//rs.kdxiaoyi.top/licen.htm)**<br>
 
 创建：文档被创建的日期<br>
 最后更新：文档**内容**最后被更新时间

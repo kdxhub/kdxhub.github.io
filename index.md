@@ -41,7 +41,7 @@ kdx233.github.io则搬迁到[rs.kdxiaoyi.top](//rs.kdxiaoyi.top)下。<br>
 |-|-|
 | [仓库地址](//github.com/kdxhub/kdxiaoyi.top)<br>[辅助站点仓库地址](//github.com/kdX233/rs.kdxiaoyi.top)<br>真要说它两啥关系的话……一个主要放apis和博客，一个放资源 | [提交主页反馈](//github.com/kdxhub/kdxiaoyi.top/issues/new/choose) 或 [检索主页反馈](//github.com/kdxhub/kdxiaoyi.top/issues?q=is%3Aissue)<br>验收标准：Windows [Edge](https://www.microsoft.com/edge)|
 | 此仓库所用的部分自建API/CSS | [API帮助文档](https://github.com/kdxhub/kdxiaoyi.top/blob/main/api/_index.md)<br>[CSS列表](https://github.com/kdX233/rs.kdxiaoyi.top/blob/master/res/css/_index.md) |
-|版权声明|[LICENSE](//kdxiaoyi.top/LICENSE_)|
+|版权声明|[LICENSE](//rs.kdxiaoyi.top/licen.htm)|
 
 背景图来源可以在[这里↗](https://s21.ax1x.com/2024/05/24/pkQwEfH.jpg)找到
 
