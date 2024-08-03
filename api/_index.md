@@ -1,5 +1,6 @@
 ---
 title: "kdxiaoyi.top API使用文档"
+description: "API"
 ---
 
 <small><a href="/index">←返回</a> | 最后更新：2023-01-30</small><br>

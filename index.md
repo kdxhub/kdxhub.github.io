@@ -1,5 +1,6 @@
 ---
 title: "kdxiaoyi"
+description: "Keep the spirit of Touching 𝕏."
 ---
 <small><b>首页</b> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a></small>
 
