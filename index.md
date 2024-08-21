@@ -16,7 +16,7 @@ kdx233.github.io则搬迁到[rs.kdxiaoyi.top](//rs.kdxiaoyi.top)下。<br>
 # <center>好van的</center>
 * [安卓自动化任务分享](/autotasklist)
 * [RNP 仿星铁的随机点名助手](https://github.com/kdxhub/random_name_picker)
-* [PIXIV.RE UI P站插图批量获取](/blogs/2024/24)
+* [PIXIV.RE UI P站插图批量获取](/pixiv.re_ui)
 * [各种资源收集与分享](/resource-share)
 
 * ***[更多…](/Project/)***

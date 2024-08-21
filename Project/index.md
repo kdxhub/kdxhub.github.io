@@ -12,7 +12,7 @@ Ctrl+F(或Command+F对于MacOS) 以进行[搜](/search.html)索
 
 # 索引
 * [安卓自动化任务分享](/autotasklist)
-* [Pixiv.re UI](/blogs/2024/24)
+* [Pixiv.re UI](/pixiv.re_ui)
 * [间隔断网工具](/resource-share/sharing/stop-internet)
 * [Get-AppxPackage 软件包安装程序の平替](/Project/Get-AppxPackage.exe/)
 * [u2lock U盘锁屏工具](./u2lock/)
