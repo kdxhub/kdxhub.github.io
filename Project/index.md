@@ -6,7 +6,7 @@ description: ""
 
 
 这里有各种好van的个人项目哦。<br>
-[加密相关策略](./resource-share/rule)
+[加密相关策略](/resource-share/rule)
 
 Ctrl+F(或Command+F对于MacOS) 以进行[搜](/search.html)索
 
