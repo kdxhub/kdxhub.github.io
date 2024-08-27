@@ -1,6 +1,6 @@
 ---
 title: "kdxiaoyi's Blog"
-description: ""
+description: "博客目录"
 ---
 <small><a href="/">首页</a> | <b >Blogs</b> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="../">←返回</a> </small>
 
@@ -12,6 +12,7 @@ _TIP: 键入`kdxiaoyi.top/blogs/[年份]/[BLOG序号]/`快速打开博客_<br>
 最后更新：文档**内容**最后被更新时间
 
 ## 2024
+[28# 为域名建立邮件收发系统](./2024/28)<br>
 [27# 正则选定汉字](./2024/27)<br>
 [26# 绝区零部分配乐 歌词带翻译](./2024/26)<br>
 [25# ADB Shell指令大全（转载）](./2024/25)<br>
