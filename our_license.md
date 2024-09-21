@@ -2,7 +2,7 @@
 title: "版权声明"
 description: "LICENSE"
 ---
-<small id="old_menu"><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="./">←返回</a> | 
+<small id="old_menu"><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="../">←返回</a> | 
 </small><br>
 
 *说实话，一般署了我的名并且不用于商业性行为我一般不会追究责任*
@@ -10,7 +10,7 @@ description: "LICENSE"
 如果没有任何 特殊/附加/转载 声明，在此站点上发布的一切都应遵守下列协议。《版权法》（中国）另有规定的除外。
 
 **任何违法此声明的个人/团体/组织都将受到在中国的、最大程度的法律诉讼。**
-## 对于文档：[CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/4.0/deed.zh)
+## 对于文档：[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.zh)
 您可以在[CC协议官网查看此声明 >](https://creativecommons.org/licenses/by-nc/4.0/deed.zh)
 
 这意味着您可以自由使用文档，但请注意：**非商业性使用 （NC）**、**署名 （BY）**、**无附加限制**
