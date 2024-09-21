@@ -146,3 +146,6 @@ src= <Img Path>
 ```
 #### src
 目标图片地址<br>推荐搭配图床，比如[imgse](https://imgse.com/)。
+
+
+<script src="https://unpkg.com/sober@0.3.2/dist/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>

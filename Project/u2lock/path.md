@@ -2,7 +2,6 @@
 title: "u2lock - Path"
 description: "u2lock"
 ---
-<script src="https://unpkg.com/sober@0.3.2/dist/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>
 <small id="old_menu"><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="./index">←返回</a> </small><br>
 
 # KDX233.PAN
@@ -14,3 +13,6 @@ description: "u2lock"
 | [u2lock.e](https://rs.kdxiaoyi.top/res/projects/u2lock/u2lock.e)|u2lock 源码（EPL）|
 | [icon_lock.ico](https://rs.kdxiaoyi.top/res/projects/u2lock/icon_lock.ico)|u2lock 图标<br>来源：[HarmonyOS图标库](https://developer.harmonyos.com/cn/design/harmonyos-icon/)|
 
+
+
+<script src="https://unpkg.com/sober@0.3.2/dist/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>

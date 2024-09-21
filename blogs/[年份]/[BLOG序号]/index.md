@@ -2,7 +2,6 @@
 title: "第三方Blogs/Homepage统计"
 description: "Third-party"
 ---
-<script src="https://unpkg.com/sober@0.3.2/dist/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>
 <small id="old_menu"><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br></small><small><a href="../../">←返回</a> </small>
 
 
@@ -33,3 +32,5 @@ description: "Third-party"
 
 ### 待更新……
 站外博客太多，一时难以统计完毕。还请谅解。<br>
+
+<script src="https://unpkg.com/sober@0.3.2/dist/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>

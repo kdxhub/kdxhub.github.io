@@ -2,7 +2,6 @@
 title: "kdxiaoyi.top API 错误排除指南"
 description: ""
 ---
-<script src="https://unpkg.com/sober@0.3.2/dist/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>
 <small id="old_menu"><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br></small><small><a href="../../">←返回</a> | 
 创建：20??-??-?? | 最后更新：20??-??-??</small><br>
 您或许可以参阅：[API使用指南](https://kdxiaoyi.top/api/index.htm)
@@ -15,3 +14,5 @@ description: ""
 没有传入`src`参数
 ## `API/countdown:invaid`
 `y`/`m`/`d`参数中有任何一个参数不为整数时触发
+
+<script src="https://unpkg.com/sober@0.3.2/dist/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>

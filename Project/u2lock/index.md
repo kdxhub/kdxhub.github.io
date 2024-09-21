@@ -2,7 +2,6 @@
 title: "u2lock"
 description: ""
 ---
-<script src="https://unpkg.com/sober@0.3.2/dist/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>
 <small id="old_menu"><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="../">←返回</a> |
  创建：2023-03-05 | 最后更新：2023-03-05</small><br>
 
@@ -21,3 +20,5 @@ description: ""
 
 为了防止手贱把U盘搞不见了、配置文件乱改一通完全识别不了，**此时可以右键锁屏，来使用Windows锁屏解锁，并且软件自动退出**<br>
 # [下载](./path)
+
+<script src="https://unpkg.com/sober@0.3.2/dist/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>

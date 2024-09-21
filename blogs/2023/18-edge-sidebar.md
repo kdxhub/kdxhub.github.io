@@ -2,7 +2,6 @@
 title: "18# 一键禁用Edge的Bing Discover (Sidebar)"
 description: "No [Discover]"
 ---
-<script src="https://unpkg.com/sober@0.3.2/dist/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>
 <small id="old_menu"><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br></small><small><a href="../../">←返回</a> |
  创建：2023-03-18 | 最后更新：2023-03-18</small> | <a href="https://www.bilibili.com/read/cv22481259">在Bilibili上查看 ></a> | <a href="https://zhuanlan.zhihu.com/p/614999864">在知乎上查看 ></a><br>
 
@@ -25,3 +24,5 @@ description: "No [Discover]"
 把`系统盘:\Users\用户名\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar`里面的Edge快捷方式按同理修改
 
 右键开始菜单里面的Edge，选择`打开文件位置`，对里面的Edge快捷方式同理修改
+
+<script src="https://unpkg.com/sober@0.3.2/dist/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>

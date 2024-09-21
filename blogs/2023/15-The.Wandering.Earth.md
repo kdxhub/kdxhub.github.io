@@ -2,7 +2,6 @@
 title: "15# 看完流浪地球2，我的看法……"
 description: ""
 ---
-<script src="https://unpkg.com/sober@0.3.2/dist/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>
 <small id="old_menu"><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br></small><small><a href="../../">←返回</a> |
  创建：2023-02-18 | 最后更新：2023-02-18 | 在<a href="https://github.com/kdxhub/kdxiaoyi.top/blob/main/blogs/2023/15-The.Wandering.Earth.md">Github</a>或<a href="https://www.bilibili.com/read/cv21899082">Bilibili</a>上查看</small>
 
@@ -70,3 +69,5 @@ MOSS测试培强之后，培强没通过*压力测试*（好像是这个名？�
 * 丫丫让月球碎片炸掉大门、让服务器漏水，图恒宇为了完成任务只能上传意识
 
 **其实这一观点是突然想到，没有什么证据的，所以才说概念极低**<br>
+
+<script src="https://unpkg.com/sober@0.3.2/dist/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>

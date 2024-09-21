@@ -2,7 +2,6 @@
 title: "反怼一个反原的记录"
 description: ""
 ---
-<script src="https://unpkg.com/sober@0.3.2/dist/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>
 <small id="old_menu"><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br></small><small><a href="../../">←返回</a> |
  创建：2023-02-22 | 最后更新：2023-02-23</small><br>
 
@@ -121,3 +120,5 @@ NO ZUO NO DIE，贬低他人来展示自己，无论是joke或是其它，都不
 	
 《幻塔》玩家 *——Y&Z*<br>
 为他献上最壮烈的追悼词：摆上最沉重的骨灰盒，埋进最肥沃的黑土地，留下的只有可笑二字。*——挚友W*<br>
+
+<script src="https://unpkg.com/sober@0.3.2/dist/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>

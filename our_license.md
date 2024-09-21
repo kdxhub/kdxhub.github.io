@@ -2,7 +2,6 @@
 title: "版权声明"
 description: "LICENSE"
 ---
-<script src="https://unpkg.com/sober@0.3.2/dist/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>
 <small id="old_menu"><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="./">←返回</a> | 
 </small><br>
 
@@ -45,3 +44,5 @@ description: "LICENSE"
 本网站（指`kdxiaoyi.top`及全部下属域名）使用了部分字体内容，对此表示鸣谢，并按授权协议特此说明。
 
 [MiSans授权声明](https://hyperos.mi.com/font/download)
+
+<script src="https://unpkg.com/sober@0.3.2/dist/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>
