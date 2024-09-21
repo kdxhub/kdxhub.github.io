@@ -2,7 +2,8 @@
 title: "u2lock - Path"
 description: "u2lock"
 ---
-<small><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="./index">←返回</a> </small><br>
+<script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>
+<small id="old_menu"><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="./index">←返回</a> </small><br>
 
 # KDX233.PAN
 **中国大陆地区因不可抗力因素可能下载较慢**

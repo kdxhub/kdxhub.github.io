@@ -2,7 +2,8 @@
 title: "kdxiaoyi"
 description: "万事万物皆非永恒之物，如是终焉，唯有「熵增」永随时间；但仍可Keep the spirit of Touching 𝕏."
 ---
-<small><b>首页</b> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a></small>
+<script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>
+<small id="old_menu"><b>首页</b> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a></small>
 
 # <center>公告</center><br>
 <center><big>我们搬家了</big><br>即日起我们搬迁至新域名kdxiaoyi.top</center><br>

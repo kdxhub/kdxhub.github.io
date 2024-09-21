@@ -2,7 +2,8 @@
 title: "Get-AppxPackage 软件包安装程序の平替"
 description: "Get-AppxPackage"
 ---
-<small><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="../">←返回</a> |
+<script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>
+<small id="old_menu"><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="../">←返回</a> |
  创建：2023-02-28 | 最后更新：2023-02-28</small><br>
 
 <big>[视频介绍](http://b23.tv/BV1VA411z7bq)</big> | <big>[制作语言包教程](./how-to-make-lang-profile)</big><br>

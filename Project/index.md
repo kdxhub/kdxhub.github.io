@@ -2,7 +2,8 @@
 title: "好van的"
 description: ""
 ---
-<small><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <b>项目合集</b> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="../">←返回</a> </small>
+<script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>
+<small id="old_menu"><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <b>项目合集</b> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="../">←返回</a> </small>
 
 
 这里有各种好van的个人项目哦。<br>

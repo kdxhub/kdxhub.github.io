@@ -2,7 +2,8 @@
 title: "kdxiaoyi's Blog"
 description: "博客目录"
 ---
-<small><a href="/">首页</a> | <b >Blogs</b> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="../">←返回</a> </small>
+<script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>
+<small id="old_menu"><a href="/">首页</a> | <b >Blogs</b> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="../">←返回</a> </small>
 
 你可以：[搜索](/search.html)博客(Ctrl+F 或对于MacOS Command+F) / 查看博客<br>
 _TIP: 键入`kdxiaoyi.top/blogs/[年份]/[BLOG序号]/`快速打开博客_<br>
