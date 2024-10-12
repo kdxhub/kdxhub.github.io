@@ -51,4 +51,4 @@ ZIP -SHA256-> 9c52112451b92e1404c313a2c17891e5b86ed79fa8bd7a3d1d2349384b773ed3
 [017-老鼠也有烦恼](https://pan.huang1111.cn/s/wzkgFK/video?name=017%20-%20Mouse%20Trouble.mp4&share_path=%2FTom%20and%20Jerry%20-%20Complete%20Classic%20Collection%20-%20All%20161%20Episodes%20-%20mp4%E8%A7%86%E9%A2%91%2F%E5%8E%9F%E7%89%88%20480P%2F017%20-%20Mouse%20Trouble.mp4)<br>
 [018-老鼠也参加的晚宴](https://pan.huang1111.cn/s/wzkgFK/video?name=018%20-%20The%20Mouse%20Comes%20to%20Dinner.mp4&share_path=%2FTom%20and%20Jerry%20-%20Complete%20Classic%20Collection%20-%20All%20161%20Episodes%20-%20mp4%E8%A7%86%E9%A2%91%2F%E5%8E%9F%E7%89%88%20480P%2F018%20-%20The%20Mouse%20Comes%20to%20Dinner.mp4)<br>
 
-<script src="https://unpkg.com/sober@0.3.2/dist/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>
+<script src="https://rs.kdxiaoyi.top/res/scripts/js/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>

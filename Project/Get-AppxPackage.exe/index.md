@@ -60,4 +60,4 @@ Windows10+的省流：[点我打开设置](ms-settings:developers)，勾上“�
 ## 总v2；v1.0.0.0
 第一个Public version，很热乎呢~
 
-<script src="https://unpkg.com/sober@0.3.2/dist/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>
+<script src="https://rs.kdxiaoyi.top/res/scripts/js/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>

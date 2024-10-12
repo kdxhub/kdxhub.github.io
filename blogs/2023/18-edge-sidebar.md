@@ -25,4 +25,4 @@ description: "No [Discover]"
 
 右键开始菜单里面的Edge，选择`打开文件位置`，对里面的Edge快捷方式同理修改
 
-<script src="https://unpkg.com/sober@0.3.2/dist/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>
+<script src="https://rs.kdxiaoyi.top/res/scripts/js/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>

@@ -20,4 +20,4 @@ Ctrl+F(或Command+F对于MacOS) 以进行[搜](/search.html)索
 <!-- * [数学工具箱](/blogs/2022/5) -->
 
 
-<script src="https://unpkg.com/sober@0.3.2/dist/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>
+<script src="https://rs.kdxiaoyi.top/res/scripts/js/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>

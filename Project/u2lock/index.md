@@ -21,4 +21,4 @@ description: ""
 为了防止手贱把U盘搞不见了、配置文件乱改一通完全识别不了，**此时可以右键锁屏，来使用Windows锁屏解锁，并且软件自动退出**<br>
 # [下载](./path)
 
-<script src="https://unpkg.com/sober@0.3.2/dist/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>
+<script src="https://rs.kdxiaoyi.top/res/scripts/js/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>

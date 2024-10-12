@@ -121,4 +121,4 @@ NO ZUO NO DIE，贬低他人来展示自己，无论是joke或是其它，都不
 《幻塔》玩家 *——Y&Z*<br>
 为他献上最壮烈的追悼词：摆上最沉重的骨灰盒，埋进最肥沃的黑土地，留下的只有可笑二字。*——挚友W*<br>
 
-<script src="https://unpkg.com/sober@0.3.2/dist/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>
+<script src="https://rs.kdxiaoyi.top/res/scripts/js/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>
