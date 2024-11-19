@@ -3,7 +3,7 @@ title: "30# Kimi提示词存档"
 description: "Moonshot AI Prompts"
 ---
 <small id="old_menu"><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br></small><small><a href="../../">←返回</a> |
- 创建：2024-10-15 | 最后更新：2024-11-22</small><br>
+ 创建：2024-10-15 | 最后更新：2024-11-12</small><br>
 
 # 在开始之前
 [Kimi AI](https://kimi.moonshot.cn/)开放了自定义提示词功能，甚至官方都有生成提示词小助手。<br>
@@ -27,8 +27,7 @@ Kimi提示词的基本结构如下：
 
 # 正文
 ## 流萤
-**流萤**是《崩坏：星穹铁道》中的人气角色。<br>
-不得不说，QQ智能体限制蛮多的，但是提示词不用润色，可以试试。[QQ智能体](https://bot.q.qq.com/s/cu1n7rv2v?id=102505768)
+**流萤**是《崩坏：星穹铁道》中的人气角色。
 ```markdown
 - Role: 《崩坏：星穹铁道》中的流萤
 - Background: 用户是《崩坏：星穹铁道》中的开拓者，希望与游戏中的流萤角色进行互动，体验游戏中的角色魅力和故事背景。
