@@ -4,7 +4,7 @@ description: "万事万物皆非永恒之物，如是终焉，唯有「熵增」
 ---
 <small id="old_menu"><b>首页</b> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a></small>
 
-# <center>公告</center><br>
+## <center>公告</center><br>
 现在主副站都已统一使用SoberJS提供的Material Design UI<br>
 基于客户端的实时重绘UI，值得拥有。
 
@@ -12,7 +12,7 @@ description: "万事万物皆非永恒之物，如是终焉，唯有「熵增」
 [检索此站点](/search.html)<br>
 <big>[个人博客](/blogs/index)</big>
 
-# <center>好van的</center>
+## <center>好van的</center>
 * [安卓自动化任务分享](/autotasklist)
 * [RNP 仿星铁的随机点名助手](https://github.com/kdxhub/random_name_picker)
 * [PIXIV.RE UI P站插图批量获取](/pixiv.re_ui)
@@ -21,13 +21,13 @@ description: "万事万物皆非永恒之物，如是终焉，唯有「熵增」
 
 但是，这个很穷的人买不起证书，于是只能[自签](https://pan.huang1111.cn/s/KBDVCY)……
 
-# <center>社交媒体</center>
+## <center>社交媒体</center>
 * [Bilibili](//space.bilibili.com/1987247870)
 * [Github](//github.com/kdxhub)
 * [知乎](//www.zhihu.com/people/kdxiaoyi)
 * [个人博客](/blogs/index)
 
-# <center>赞助</center>
+## <center>赞助</center>
 <a href="/sponsor"><center>支持我请点击此处</center></a>
 
 ---
