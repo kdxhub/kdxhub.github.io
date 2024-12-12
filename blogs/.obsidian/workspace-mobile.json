@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/31.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "31"
+              "title": "index"
             }
           }
         ]
@@ -146,8 +146,8 @@
   },
   "active": "96ee3f1bad4af169",
   "lastOpenFiles": [
-    "2024/30.md",
     "2024/31.md",
+    "2024/30.md",
     "2024/28.md",
     "2024/27.md",
     "2024/29.md"

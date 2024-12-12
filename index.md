@@ -12,6 +12,9 @@ description: "万事万物皆非永恒之物，如是终焉，唯有「熵增」
 [检索此站点](/search.html)<br>-->
 <big>[个人博客](/blogs/index)</big>
 
+## huang1111网盘数据迁移公告
+由于huang1111网盘因微软限制暂停了服务，所有huang1111网盘分享链接将在2025年1月1日失效。所有资源正在备份并寻觅一个新网盘补链接中……。
+
 ## <center>好van的</center>
 * [安卓自动化任务分享](/autotasklist)
 * [RNP 仿星铁的随机点名助手](https://github.com/kdxhub/random_name_picker)
