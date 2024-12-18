@@ -3,7 +3,7 @@ title: "Get-AppxPackage 软件包安装程序の平替"
 description: "Get-AppxPackage"
 ---
 <small id="old_menu"><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="../">←返回</a> |
- 创建：2023-02-28 | 最后更新：2023-02-28</small><br>
+ 创建：2023-02-28 | 最后更新：2024-12-18</small><br>
 
 <big>[视频介绍](http://b23.tv/BV1VA411z7bq)</big> | <big>[制作语言包教程](./how-to-make-lang-profile)</big><br>
 ![](https://s1.ax1x.com/2023/02/28/ppCUGuT.png "All-v3;in-v1.1.0.0")
@@ -16,10 +16,12 @@ description: "Get-AppxPackage"
 （开放性试题，意对即可）
 
 # 下载 Download
-至于下载吗……看到那个“Get-AppxPackage.exe”了吗，就只用下它就行了<br>
-Only need to download a file called `Get-AppxPackage.exe`<br>
-
-[pan.huang1111.cn](https://pan.huang1111.cn/s/L3NmI6?path=%2Fblog%2313%2FGet-AppxPackage)
+ 
+|文件|SHA256校验|
+|:-:|:-|
+| [主程序](https://rs.kdxiaoyi.top/res/projects/Get-AppxPackage/Get-AppxPackage.exe) | `e878bd09aab73c54a4a17fc207fcbf9d478e67bafc14056a91dd766684273b9c` |
+| [源代码](https://rs.kdxiaoyi.top/res/projects/Get-AppxPackage/Get-AppxPackage.e) | `f249d82609b996ddf7fac970ec2c695a7abe9bfdf69e553fca580e74d690e5ed` |
+| [应用图标](https://rs.kdxiaoyi.top/res/projects/Get-AppxPackage/Get-AppxPackage.ico) | `5c57a54e37b2490b8b899196e808fd7bff913c254354939ecfdc2f8356851658` |
 
 # 大致原理
 根据用户的配置生成Powershell脚本并执行<br>
@@ -27,14 +29,14 @@ Only need to download a file called `Get-AppxPackage.exe`<br>
 
 # 兼容平台
 Windows 10+<br>
-Windows 8……应该能用？ <sup><a href="https://www.404techsupport.com/2014/06/23/installing-free-windows-8-modern-apps-without-the-windows-store/">[信息来源]</a></sup><br>
+Windows 8……应该能用？ <sup><a target="_blank" href="https://www.404techsupport.com/2014/06/23/installing-free-windows-8-modern-apps-without-the-windows-store/">[信息来源在这里]</a></sup><br>
 
 **需要启用“旁加载”模式**。关于如何启用，请参阅[Microsoft Learn](https://learn.microsoft.com/zh-cn/windows/application-management/sideload-apps-in-windows-10#step-1-turn-on-sideloading)。<br>
 Windows10+的省流：[点我打开设置](ms-settings:developers)，勾上“开发人员模式”或“从任意源（包括松散文件）安装应用”<br>
 
 # 兼容性
-~~我知道有什么多语言支持，但在我这套源码的基础上改个语言包不是什么难事，微软的多语言也是外置包.mui搞得<img width=24px height=24px alt="[doge]" src="https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png"></img>~~   ←23-02-23-Updata:**已经支持多语言**<br>
-另外，我这套UI本质基于Win32UI，UI兼容性微软已经替我考虑了<img width=24px height=24px alt="[妙啊doge]" src="https://i0.hdslb.com/bfs/emote/b4cb77159d58614a9b787b91b1cd22a81f383535.png"></img><br>
+~~我知道有什么多语言支持，但在我这套源码的基础上改个语言包不是什么难事，微软的多语言也是外置包.mui搞得  ←23-02-23-Updata:**已经支持多语言**<br>
+另外，我这套UI本质基于Win32UI，UI兼容性微软已经替我考虑了。
 
 # Updata Log
 ## 下一步计划
