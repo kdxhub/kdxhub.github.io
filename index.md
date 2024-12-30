@@ -12,8 +12,13 @@ description: "万事万物皆非永恒之物，如是终焉，唯有「熵增」
 [检索此站点](/search.html)<br>-->
 <big>[个人博客](/blogs/index)</big>
 
-## huang1111网盘数据迁移公告
+### huang1111网盘数据迁移公告
 由于huang1111网盘因微软限制暂停了服务，所有huang1111网盘分享链接将在2025年1月1日失效。所有资源正在备份并寻觅一个新网盘补链接中……。
+
+### 修复网站瘫痪问题
+自2024年12月初，由于Cloudflare节点问题，主站、副站及全部Workers无法访问（`timeout`），并且从湖北开始渐渐扩散到全国。<br>
+现在，此问题已临时解决。<br>
+[请参阅blog#33](/blogs/2024/33)
 
 ## <center>好van的</center>
 * [安卓自动化任务分享](/autotasklist)
@@ -26,7 +31,7 @@ description: "万事万物皆非永恒之物，如是终焉，唯有「熵增」
 
 ## <center>其它平台</center>
 * [Bilibili฿](//space.bilibili.com/1987247870)
-* [Github฿](//github.com/kdxhub) | [Gitee฿](//gitee.com/kdxiaoyi)
+* [Github฿](//github.com/kdxhub) \| [Gitee฿](//gitee.com/kdxiaoyi)
 * [维基百科฿](https://zh.m.wikipedia.org/wiki/User:Kdxiaoyi) ([贡献列表฿](https://zh.m.wikipedia.org/wiki/Special:%E7%94%A8%E6%88%B7%E8%B4%A1%E7%8C%AE/Kdxiaoyi))
 * [知乎฿](//www.zhihu.com/people/kdxiaoyi)
 
