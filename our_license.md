@@ -1,48 +1,88 @@
 ---
-title: "版权声明"
+title: "版权声明页"
 description: "LICENSE"
 ---
 <small id="old_menu"><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="../">←返回</a> | 
 </small><br>
 
-*说实话，一般署了我的名并且不用于商业性行为我一般不会追究责任*
+[本文的永久链接฿](https://kdx233.github.io/licen)<br>
 
-如果没有任何 特殊/附加/转载 声明，在此站点上发布的一切都应遵守下列协议。《版权法》（中国）另有规定的除外。
+## 简中版本
+若非作者另有声明或拥有作者额外书面许可，您可以自由使用我的作品（以下简称“此作品”），但唯需遵守以下条款：
 
-**任何违法此声明的个人/团体/组织都将受到在中国的、最大程度的法律诉讼。**
-## 对于文档：[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.zh)
-您可以在[CC协议官网查看此声明 >](https://creativecommons.org/licenses/by-nc/4.0/deed.zh)
+- **署名**：无论您如何使用此作品，您都应在作品中包含原作者的有效署名。
+- **非商业用途**：您不得将此作品用于任何商业用途。
 
-这意味着您可以自由使用文档，但请注意：**非商业性使用 （NC）**、**署名 （BY）**、**无附加限制**
+您知悉，一旦以任何形式使用我的作品，即视为无条件同意此声明条款。若您需要取得条款豁免，请联系作者。<br>
+本声明条款的具体内容即[CC BY-NC 4.0฿](https://creativecommons.org/licenses/by-nc/4.0/deed.zh)协议内容。二者是等效的，但若有冲突之处，以本声明为准。<br>
+若您违反此声明条款，作者有权终止您使用此作品的权利。<br>
+本作者保留声明及条款的最终解释权，且不对您使用后的作品负责。<br>
 
-| 项目 | 释义 | 内容 |
-|-|-|-|
-| CC | [知识共享许可协议](https://baike.baidu.com/item/%E7%9F%A5%E8%AF%86%E5%85%B1%E4%BA%AB%E8%AE%B8%E5%8F%AF%E5%8D%8F%E8%AE%AE/23190065?fromtitle=CC%E5%8D%8F%E8%AE%AE&fromid=2355378&fr=aladdin) | 允许他人分发作品的公共版权许可 |
-| BY | 署名 | 您必须给出[适当的署名](https://wiki.creativecommons.org/wiki/License_Versions#Detailed_attribution_comparison_chart)，提供指向本许可协议的链接，同时标明[是否（对原始作品）作了修改](https://wiki.creativecommons.org/wiki/License_Versions#Modifications_and_adaptations_must_be_marked_as_such)。您可以用任何合理的方式来署名，但是不得以任何方式暗示许可人认可您或您的使用。 |
-| NC | 非商业性使用 | 您不得将本作品用于[商业目的](https://creativecommons.org/faq/#does-my-use-violate-the-noncommercial-clause-of-the-licenses)。 |
-| / | 无附加限制 | 您不得使用法律术语或者[技术措施 (点名表扬X度文库)](https://wiki.creativecommons.org/wiki/License_Versions#Application_of_effective_technological_measures_by_users_of_CC-licensed_works_prohibited)从而限制其他人做许可协议允许的事情。 |
-| 4.0 | / | 这意味着使用[CC协议](https://baike.baidu.com/item/%E7%9F%A5%E8%AF%86%E5%85%B1%E4%BA%AB%E8%AE%B8%E5%8F%AF%E5%8D%8F%E8%AE%AE/23190065?fromtitle=CC%E5%8D%8F%E8%AE%AE&fromid=2355378&fr=aladdin)的4.0版本 |
+### 署名
+根据CC BY-NC 4.0协议要求，您需要以下列格式进行**有效**署名：
 
-## 对于源代码：GNU Affero General Public License v3.0
-- 在这里阅读[源文件](https://www.gnu.org/licenses/agpl-3.0)
-- 还可以：阅读 [简体中文译本](https://jxself.org/translations/gpl-3.zh.shtml) 或 [英文副本](https://rs.kdxiaoyi.top/res/docs/LICENSE_AGPL-3.0.md)
-- **有且仅有来自 [GNU工程官方](https://www.gnu.org/licenses/) 的协议文件（及完整副本）具有法律效益。其余任何副本均仅作便于理解的参考**
-- 以下是对AGPL-3.0的解释。仅供参考。以[源文本](https://www.gnu.org/licenses/agpl-3.0)为主。
+```text
+原作者：@kdxiaoyi <kdxiaoyi@outlook.com> <https://kdx233.github.io>
+原副本以CC BY-NC 4.0协议共享，原作者不对此副本负责。
+```
 
-[![xKxjMQ.png](https://s1.ax1x.com/2022/10/02/xKxjMQ.png)](https://imgse.com/i/xKxjMQ)
+其中构成有效署名的要素中，第一行的信息可以进行更换：
 
-对这张图片的解释：
-- 强著作权(Strong Copyleft)
-- 没有对司法管辖权做出规定
-- 使用（此类）专利代码时默认授予，但不得扩展功能并实现另外一种专利
-- 对（此类）专利代码提起专利诉讼后，将失去对（此类）专利代码的复制、使用、改编和发行权利
-- 使用（此类）代码片段必须署名
-- 所有受益于（此类）代码的人都必须通过他们的工作回馈社会，即使严格意义上来说他们并没有发布（此类）代码。
-- 当您基于（此类）代码复制、使用、改编、发行后，禁止使用原作者的名称推广此类产品
+- 邮箱可以为`kdxiaoyi@outlook.com`或`kdx233@outlook.com`。
+- 作者主页可以为`http://kdx233.github.io/`、`http://kdx233.github.io/licen`或`http://space.bilibili.com/1987247870`。
+
+原则上您还应包含本声明的链接或者是CC BY-NC 4.0协议原文链接，但本作者授予您此项的豁免权。<br>
+
+### 何谓「使用」
+上文中的“使用”一词包含引用、转载、翻译、改编、编排、改写或其他依据著作权与类似权利需要获得所有人许可的修改行为。<br>
+
+### 何谓「非商业用途」
+引自CC BY-NC 4.0协议原文，
+
+> 指该使用的主要意图或者指向并非获取商业优势或金钱报酬。
+> 为本公共许可协议之目的，以数字文件共享或类似方式，用授权作品(Licensed Material)交换其他受到著作权与类似权利保护的作品(material)是非商业性使用，只要该交换不涉及金钱报酬的支付。
+
+## English Version
+Unless otherwise stated by the author or with the author's additional written permission,you are free to use my work(hereinafter referred to as"This Work"),but you must comply with the following terms:
+
+- **Attribution**:Regardless of how you use This Work,you must include the valid attribution of the original author in your work.
+- **Non-Commercial Use**:You shall not use This Work for any commercial purposes.
+
+You acknowledge that by using This Work in any form,you agree to the terms of this declaration unconditionally.If you need to obtain a waiver of the terms,please contact the author.<br>
+The specific content of this declaration is equivalent to the [CC BY-NC 4.0฿](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en) license agreement.Both are equivalent,but in case of any conflict,the [**chinese version** of this declaration](#简中版本) shall prevail.<br>
+If you violate the terms of this declaration,the author reserves the right to terminate your all right to use This Work.<br>
+Author retains the final interpretation of this declaration and its terms and won't be responsible for your works after use.<br>
+
+### Attribution
+According to the requirements of CC BY-NC 4.0 protocol, you need to sign **truly** in the following format:
+
+```text
+Original Author：@kdxiaoyi <kdxiaoyi@outlook.com> <https://kdx233.github.io>
+The original copy is shared by CC BY-NC 4.0 protocol, and the original author is not responsible for this copy.
+```
+
+The elements that constitute a valid attribution can have the following information replaced in the first line:
+
+- The email can be `kdxiaoyi@outlook.com` or `kdx233@outlook.com`.
+- The author's homepage can be `http://kdx233.github.io/`, `http://kdx233.github.io/licen`, or `http://space.bilibili.com/1987247870`.
+
+In principle, you should also include a link to this declaration or the original CC BY-NC 4.0 license, but the author grants you a waiver for this.
+
+### What is 'Use'
+The term "use" in the above context includes citation, republication, translation, adaptation, arrangement, rewriting, or other modifications that require permission from the rights holder according to copyright and similar rights.
+
+### What is 'Non-Commercial Use'
+Summary from the original text of the CC BY-NC 4.0 license:
+
+> Refers to a use that is not intended to secure a commercial advantage or monetary compensation.
+> For the purposes of this Public License, the exchange of digital files or similar methods, using Licensed Material to exchange other material protected by copyright and similar rights, is non-commercial use, provided that no payment of monetary compensation is involved in the exchange.
+
 
 ## 附加声明
-本网站（指`kdxiaoyi.top`及全部下属域名）使用了部分字体内容，对此表示鸣谢，并按授权协议特此说明。
+本网站（指`kdxiaoyi.top`及全部下属域名、关联域名）使用了部分作品，对此表示鸣谢，并按授权协议特此说明。
 
-[MiSans授权声明](https://hyperos.mi.com/font/download)
+- [MiSans授权声明](https://hyperos.mi.com/font/download)
+
+其余另有作品仅在部分页面中使用，在相应页面内声明而不在此处列出。
 
 <script src="https://rs.kdxiaoyi.top/res/scripts/js/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>
