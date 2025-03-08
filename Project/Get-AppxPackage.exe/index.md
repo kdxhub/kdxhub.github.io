@@ -3,7 +3,7 @@ title: "Get-AppxPackage 软件包安装程序の平替"
 description: "Get-AppxPackage"
 ---
 <small id="old_menu"><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="../">←返回</a> |
- 创建：2023-02-28 | 最后更新：2024-12-18</small><br>
+ 创建：2023-02-28 | 最后更新：2025-02-14</small><br>
 
 <big>[视频介绍](http://b23.tv/BV1VA411z7bq)</big> | <big>[制作语言包教程](./how-to-make-lang-profile)</big><br>
 ![](https://s1.ax1x.com/2023/02/28/ppCUGuT.png "All-v3;in-v1.1.0.0")
@@ -16,12 +16,14 @@ description: "Get-AppxPackage"
 （开放性试题，意对即可）
 
 # 下载 Download
+
+<big><b>↓ 这个“主程序”可以点击！！ ↓</b></big>
  
 |文件|SHA256校验|
 |:-:|:-|
-| [主程序](https://rs.kdxiaoyi.top/res/projects/Get-AppxPackage/Get-AppxPackage.exe) | `e878bd09aab73c54a4a17fc207fcbf9d478e67bafc14056a91dd766684273b9c` |
-| [源代码](https://rs.kdxiaoyi.top/res/projects/Get-AppxPackage/Get-AppxPackage.e) | `f249d82609b996ddf7fac970ec2c695a7abe9bfdf69e553fca580e74d690e5ed` |
-| [应用图标](https://rs.kdxiaoyi.top/res/projects/Get-AppxPackage/Get-AppxPackage.ico) | `5c57a54e37b2490b8b899196e808fd7bff913c254354939ecfdc2f8356851658` |
+| **点它！→**[主程序฿](https://rs.kdxiaoyi.top/res/projects/Get-AppxPackage/Get-AppxPackage.exe) | `e878bd09aab73c54a4a17fc207fcbf9d478e67bafc14056a91dd766684273b9c` |
+| [源代码฿](https://rs.kdxiaoyi.top/res/projects/Get-AppxPackage/Get-AppxPackage.e) | `f249d82609b996ddf7fac970ec2c695a7abe9bfdf69e553fca580e74d690e5ed` |
+| [应用图标฿](https://rs.kdxiaoyi.top/res/projects/Get-AppxPackage/Get-AppxPackage.ico) | `5c57a54e37b2490b8b899196e808fd7bff913c254354939ecfdc2f8356851658` |
 
 # 大致原理
 根据用户的配置生成Powershell脚本并执行<br>
