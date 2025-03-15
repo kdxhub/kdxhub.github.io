@@ -23,4 +23,4 @@ description: "Get-AppxPackage Docs"
 ) or [VScode](https://code.visualstudio.com/) could make it)
 - Copy the backup one back to `Get-AppxPackage-lang.ini` and rerun the exe
 
-<script src="https://rs.kdxiaoyi.top/res/scripts/js/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>
+<script src="https://rs.kdxiaoyi.top/res/scripts/js/sober@1.0.6.min.js"></script><script src="https://kdxiaoyi.top/pmd.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/pmd-reRender.min.js"></script>

@@ -70,4 +70,4 @@ MOSS测试培强之后，培强没通过*压力测试*（好像是这个名？�
 
 **其实这一观点是突然想到，没有什么证据的，所以才说概念极低**<br>
 
-<script src="https://rs.kdxiaoyi.top/res/scripts/js/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>
+<script src="https://rs.kdxiaoyi.top/res/scripts/js/sober@1.0.6.min.js"></script><script src="https://kdxiaoyi.top/pmd.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/pmd-reRender.min.js"></script>

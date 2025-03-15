@@ -47,4 +47,4 @@ description: "万事万物皆非永恒之物，如是终焉，唯有「熵增」
 暂无
 
 <div id="mdRender_config" data-sideship-hide="0"></div>
-<script src="https://rs.kdxiaoyi.top/res/scripts/js/sober.min.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/md-newUI-render.js"></script>
+<script src="https://rs.kdxiaoyi.top/res/scripts/js/sober@1.0.6.min.js"></script><script src="https://kdxiaoyi.top/pmd.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/pmd-reRender.min.js"></script>
