@@ -55,9 +55,13 @@ const conf = {
   sidebar: {
     solt_1: {
       /*左侧边栏·第1格·背景图片*/
-      src: `https://bing.img.run/1920x1080.php`,
+      src: `https://www.todaybing.com/api/today/cn?size=mhd`,
       /*左侧边栏·第1格·背景图片描述*/
       alt: `@kdxiaoyi`,
+      /*左侧边栏·第1格·描述文案背景，依次亮色透明度、暗色透明度、亮色模糊度、暗色模糊度*/
+      background: [0.8, 0.82, -1, -1],
+      /*左侧边栏·第1格·图片标题（悬浮提示内容）*/
+      title: "Bing每日一图，来自第三方API",
     },
     solt_2: {
       /*左侧边栏·第2格内容*/
