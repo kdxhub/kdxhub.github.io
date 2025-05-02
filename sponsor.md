@@ -1,18 +1,26 @@
 ---
 title: "赞助"
-description: ""
+description: " "
 ---
 <small id="old_menu"><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="./">←返回</a></small><br>
 
-## 点击广告
-您的每次点击广告都能为我带来收益<br>
+## 条款
 
-<br><center>**暂时没有广告**</center><br>
+* 您知悉，**此页面为无偿赞助通道**，您不会因为此页面付款获得任何权益。
+  * 若需获得我或我团队作品中某赞助权益，请到该作品的赞助界面处。
+* 赞助后72小时内可通过付款记录及单号发邮件到contact@kdxiaoyi.top申请退款。**退款收取20%手续费**
+  * 我们会在7个工作日内进行审核并退款至原账户
+* 不支持未成年人赞助。
+* **理性消费**
 
-## 爱发电
-## Alipay
-*（部分）实名信息可扫码后查看*<br>
+## 支付宝
 ![](https://s1.ax1x.com/2023/02/06/pS6ji8g.jpg "Alipay")
-## WeChat
+
+## 微信
+![](https://s21.ax1x.com/2025/05/02/pEb1fcF.png "WeChat Pay")
+
+## QQ
+![](https://s21.ax1x.com/2025/05/02/pEb1W1U.png "QQ")
+
 
 <script src="https://rs.kdxiaoyi.top/res/scripts/js/sober@1.0.6.min.js"></script><script src="https://kdxiaoyi.top/pmd.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/pmd-reRender.min.js"></script>
