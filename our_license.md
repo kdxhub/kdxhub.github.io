@@ -14,7 +14,7 @@ description: "LICENSE"
 - **非商业用途**：您不得将此作品用于任何商业用途。
 
 您知悉，一旦以任何形式使用我的作品，即视为无条件同意此声明条款。若您需要取得条款豁免，请联系作者。<br>
-本声明条款的具体内容即[CC BY-NC 4.0฿](https://creativecommons.org/licenses/by-nc/4.0/deed.zh)协议内容。二者是等效的，但若有冲突之处，以本声明为准。<br>
+本声明条款的具体内容即[CC BY-NC 4.0฿](https://creativecommons.org/licenses/by-nc/4.0/deed.zh)协议内容。二者是等效的。<br>
 若您违反此声明条款，作者有权终止您使用此作品的权利。<br>
 本作者保留声明及条款的最终解释权，且不对您使用后的作品负责。<br>
 
