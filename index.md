@@ -19,6 +19,7 @@ description: "万事万物皆非永恒之物，如是终焉，唯有「熵增」
 * [Bilibili฿](//space.bilibili.com/1987247870)
 * [Github฿](//github.com/kdxhub) \| [Gitee฿](//gitee.com/kdxiaoyi)
 * [知乎฿](//www.zhihu.com/people/kdxiaoyi)
+* [联系我](/contact)
 
 ## <center>赞助</center>
 <a href="/sponsor"><center>支持我请点击此处</center></a>
