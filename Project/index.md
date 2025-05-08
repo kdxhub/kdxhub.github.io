@@ -12,6 +12,7 @@ Ctrl+F(或Command+F对于MacOS) 以进行[搜](/search.html)索
 ## Web/HTML/JS
 * [Pixiv.re UI](/pixiv.re_ui)
 * [Github Pages Markdown 重渲染脚本](/Pages-md-reRender)
+* [随机点名助手（星铁版）](/random_name_picker)
 
 ## 安卓
 * [安卓自动化任务分享](/autotasklist)
@@ -27,6 +28,7 @@ Ctrl+F(或Command+F对于MacOS) 以进行[搜](/search.html)索
 * [Change sys by batch](/change-sys-by-batch)
 
 ## 其它
+* [《Minecraft》服务器：栈流Streack](https://kdxiaoyi.top/Streack)
 * [压缩包密码字典](https://rs.kdxiaoyi.top/Passwords/)
 * [各种资源收集与分享](/resource-share)
 * **[已存档或预览项目](https://rs.kdxiaoyi.top/preview/)**
