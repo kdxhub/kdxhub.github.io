@@ -7,4 +7,3 @@ Disallow: /domains
 Allow: /api/_index
 Allow: /api/_help
 Sitemap: sitemap.xml
-Sitemap: sitemap.txt
