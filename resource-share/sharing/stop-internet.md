@@ -33,6 +33,6 @@ description: " "
 - 需要WiFi或数据线  还要足够流量或WiFi
 - 手动操控容易出圈
 
-# [下载](https://pan.huang1111.cn/s/bvjatY)
+# [下载](http://rs.kdxiaoyi.top/res/projects/interval_stop_internet/间隔断网工具 V1-0.0.1.7.zip)
 
 <script src="https://rs.kdxiaoyi.top/res/scripts/js/sober@1.0.6.min.js"></script><script src="https://kdxiaoyi.top/pmd.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/pmd-reRender.min.js"></script>
