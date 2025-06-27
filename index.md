@@ -13,7 +13,7 @@ description: "万事万物皆非永恒之物，如是终焉，唯有「熵增」
 * [各种资源收集与分享](/resource-share)
 * **[更多…](/Project/)**
 
-<--! 但是，这个很穷的人买不起证书，于是只能[自签](https://pan.huang1111.cn/s/KBDVCY)…… -->
+<!-- 但是，这个很穷的人买不起证书，于是只能[自签](https://pan.huang1111.cn/s/KBDVCY)…… -->
 
 ## <center>其它平台</center>
 * [Bilibili฿](//space.bilibili.com/1987247870)
