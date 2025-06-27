@@ -5,7 +5,7 @@ description: "API"
 
 <small><a href="/index">←返回</a> | 最后更新：2023-01-30</small><br>
 
-如果您遇到了一些错误，也可以[在这里](https://kdxiaoyi.top/api/index.htm?help=1)自助排障
+如果您遇到了一些错误，也可以[在这里](https://kdxiaoyi.top/api/help)自助排障
 # What's API on kdxiaoyi.top?
 为了完成亿些奇奇怪怪的操作，有时必须开发一些API来帮助个人网址建设。
 
