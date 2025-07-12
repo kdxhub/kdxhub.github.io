@@ -37,7 +37,9 @@ _TIP: 键入`kdxiaoyi.top/blogs/[年份]/[BLOG序号]/`快速打开博客_<br>
 ## 2023
 [19# 攻破步步高X2 (P22H190)家教机平板](./2023/19-bbg-x2-p22h190)<br>
 [18# 一键禁用Edge的Bing Discover (Sidebar)](/blogs/2023/18-edge-sidebar)<br>
-[17# 如何看待深圳南头中学强制要求学生购买所谓的听说材料？฿](https://www.zhihu.com/question/278432592/answer/2920800289)<br>
+
+> [i] Blog#16和#17已因**质量不高、不符合博客规划**而删除链接。
+
 [15# 看完流浪地球2，我的看法……](/blogs/2023/15-The.Wandering.Earth)<br>
 [14# BDS 1.19.60 配置文件汉化，含`server-authoritative-movement`](/blogs/2023/14)<br>
 [13# appx安装器平替  WinQQ官方简洁版使用技巧](/blogs/2023/13)<br>
@@ -46,6 +48,9 @@ _TIP: 键入`kdxiaoyi.top/blogs/[年份]/[BLOG序号]/`快速打开博客_<br>
 [10# 细数Windows 7&8的罪与过 ——怀念Windows 7&8](/blogs/2023/10)<br>
 
 ## 2022
+
+> [x] 这些是本人早期学习作品，极不成熟。仅供存档，谨慎参考。
+
 [9# 大改Github Pages！（换Github Pages背景并加速）](/blogs/2022/9)<br>
 [8# Live2D 入侵网课](/blogs/2022/8)<br>
 [7# Windows 上常用的拓展插件](/blogs/2022/7)<br>

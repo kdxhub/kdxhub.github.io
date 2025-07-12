@@ -6,14 +6,14 @@ description: "万事万物皆非永恒之物，如是终焉，唯有「熵增」
 
 <big>[个人博客](/blogs/index)</big>
 
-## <center>好van的</center>
-* [安卓自动化任务分享](/autotasklist)
+## <center>目前正在创作……</center>
+* [栈流Streack MC高版本服务器](/Streack)
 * [RNP 仿星铁的随机点名助手](https://github.com/kdxhub/random_name_picker)
 * [PIXIV.RE UI P站插图批量获取](/pixiv.re_ui)
 * [各种资源收集与分享](/resource-share)
 * **[更多…](/Project/)**
 
-但是，这个很穷的人买不起证书，于是只能[自签](https://pan.huang1111.cn/s/KBDVCY)……
+<!-- 但是，这个很穷的人买不起证书，于是只能[自签](https://pan.huang1111.cn/s/KBDVCY)…… -->
 
 ## <center>其它平台</center>
 * [Bilibili฿](//space.bilibili.com/1987247870)
