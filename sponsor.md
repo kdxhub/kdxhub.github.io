@@ -13,14 +13,7 @@ description: " "
 * 不支持未成年人赞助。
 * **理性消费**
 
-## 支付宝
-![](https://s1.ax1x.com/2023/02/06/pS6ji8g.jpg "Alipay")
-
-## 微信
-![](https://s21.ax1x.com/2025/05/02/pEb1fcF.png "WeChat Pay")
-
-## QQ
-![](https://s21.ax1x.com/2025/05/02/pEb1W1U.png "QQ")
+![](https://rs.kdxiaoyi.top/res/images/donate.jpg "Alipay/WeChat Pay/QQPay")
 
 
 <script src="https://rs.kdxiaoyi.top/res/scripts/js/sober@1.0.6.min.js"></script><script src="https://kdxiaoyi.top/pmd.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/pmd-reRender.min.js"></script>
