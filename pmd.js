@@ -11,7 +11,7 @@ const conf = {
       /*文章授权协议*/
       what: `CC BY-NC 4.0`,
       /*文章授权协议链接*/
-      link: `https://creativecommons.org/licenses/by-nc/4.0/legalcode.zh-hans`,
+      link: `https://kdxiaoyi.top/our_license`,
     },
     /*自定义CSS样式*/
     style: ``,
@@ -55,13 +55,13 @@ const conf = {
   sidebar: {
     solt_1: {
       /*左侧边栏·第1格·背景图片*/
-      src: `https://www.todaybing.com/api/today/cn?size=mhd`,
+      src: `https://s21.ax1x.com/2025/08/03/pVNTA41.jpg`,
       /*左侧边栏·第1格·背景图片描述*/
       alt: `@kdxiaoyi`,
       /*左侧边栏·第1格·描述文案背景，依次亮色透明度、暗色透明度、亮色模糊度、暗色模糊度*/
       background: [0.8, 0.82, -1, -1],
       /*左侧边栏·第1格·图片标题（悬浮提示内容）*/
-      title: "Bing每日一图，来自第三方API",
+      title: "本人随手一拍的图片",
     },
     solt_2: {
       /*左侧边栏·第2格内容*/
