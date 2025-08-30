@@ -3,7 +3,9 @@ title: "联系我"
 description: "请仔细阅读联系前须知"
 ---
 <small id="old_menu"><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br></small><small><a href="../../">←返回</a> | 
-创建：2025-05-09 | 最后更新：2024-05-10</small><br>
+创建：2025-05-09 | 最后更新：2024-08-24</small><br>
+
+<big>神经衰弱，非诚勿扰；如有冒犯，还请见谅。</big>
 
 ## 联系前须知
 ### 常见问题
@@ -133,7 +135,7 @@ description: "请仔细阅读联系前须知"
 * E-mail: [contact@kdxiaoyi.top](mailto:contact@kdxiaoyi.top) \| [kdxiaoyi@outlook.com](mailto:kdxiaoyi@outlook.com)
   * 检查收信箱频率不频繁，大概一周1~2次左右。
 * B站：[@kdxiaoyi฿](https://space.bilibili.com/1987247870)
-* QQ：暂时不公开
+* QQ：[1291646401฿](https://qm.qq.com/q/i9mSxwyCKk)
 
 > [!] 没有在这里或者本博客首页列出的联系方式都可以认为不是我本人。
 
