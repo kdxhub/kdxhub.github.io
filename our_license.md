@@ -78,10 +78,24 @@ Summary from the original text of the CC BY-NC 4.0 license:
 > For the purposes of this Public License, the exchange of digital files or similar methods, using Licensed Material to exchange other material protected by copyright and similar rights, is non-commercial use, provided that no payment of monetary compensation is involved in the exchange.
 
 
-## 附加声明
+## SDK鸣谢
 本网站（指`kdxiaoyi.top`及全部下属域名、关联域名）使用了部分作品，对此表示鸣谢，并按授权协议特此说明。
 
-- [MiSans授权声明](https://hyperos.mi.com/font/download)
+> **MiSans**
+> Beijing Xiaomi Mobile Software Co.,Ltd & Hanyi Fonts
+> ARR <https://hyperos.mi.com/font/download>
+
+> **Page-markdown-reRender**
+> kdxiaoyi
+> MIT <https://gitee.com/kdxiaoyi/Pages-md-reRender/>
+
+> **PagesSober**
+> kdxiaoyi
+> MIT <https://github.com/kdxhub/PagesSober>
+
+> **Sober**
+> Apprat
+> MIT <https://github.com/apprat/sober>
 
 其余另有作品仅在部分页面中使用，在相应页面内声明而不在此处列出。
 
