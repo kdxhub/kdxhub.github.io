@@ -4,6 +4,8 @@ description: " "
 ---
 <small id="old_menu"><a href="/">首页</a> | <a href="/blogs">Blogs</a> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="./">←返回</a></small><br>
 
+> [@] 页面翻新中
+
 ## 条款
 
 * 您知悉，**此页面为无偿赞助通道**，您不会因为此页面付款获得任何权益。
@@ -13,7 +15,7 @@ description: " "
 * 不支持未成年人赞助。
 * **理性消费**
 
-![](https://rs.kdxiaoyi.top/res/images/donate.jpg "Alipay/WeChat Pay/QQPay")
+![](https://rs.kdxiaoyi.top/res/images/donateDISABLED.jpg "Alipay/WeChat Pay/QQPay")
 
 
 <script src="https://rs.kdxiaoyi.top/res/scripts/js/sober@1.0.6.min.js"></script><script src="https://kdxiaoyi.top/pmd.js"></script><script src="https://rs.kdxiaoyi.top/res/scripts/js/pmd-reRender.min.js"></script>
