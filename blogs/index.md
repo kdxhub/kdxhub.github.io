@@ -4,9 +4,8 @@ description: "博客目录"
 ---
 <small id="old_menu"><a href="/">首页</a> | <b >Blogs</b> | <a href="/Project">项目合集</a> | <a href="https://space.bilibili.com/1987247870">Bilibili↗</a><br><a href="../">←返回</a> </small>
 
-你可以：[搜索](/search.html)博客(Ctrl+F 或对于MacOS Command+F) / 查看博客<br>
-_TIP: 键入`kdxiaoyi.top/blogs/[年份]/[BLOG序号]/`快速打开博客_<br>
-**此BLOG INDEX及BLOGS适用于[kdxiaoyi.top的版权声明](//rs.kdxiaoyi.top/licen.htm)**<br>
+你可以：搜索博客(Ctrl+F 或对于MacOS Command+F) / 查看博客<br>
+**此BLOG INDEX及BLOGS适用于[kdxiaoyi.top的版权声明](/our_license)**<br>
 
 创建：文档被创建的日期<br>
 最后更新：文档**内容**最后被更新时间
