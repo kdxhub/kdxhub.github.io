@@ -11,7 +11,7 @@ description: "万事万物皆非永恒之物，如是终焉，唯有「熵增」
 * [RNP 仿星铁的随机点名助手](https://github.com/kdxhub/random_name_picker)
 * [PIXIV.RE UI P站插图批量获取](/pixiv.re_ui)
 * [各种资源收集与分享](/resource-share)
-* **[更多…](/Project/)**
+* **[更多…](/project/)**
 
 <!-- 但是，这个很穷的人买不起证书，于是只能[自签](https://pan.huang1111.cn/s/KBDVCY)…… -->
 
